@@ -1,7 +1,0 @@
-hi
-yugiutg
-
-ugl
-
-
-uhik
