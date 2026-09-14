@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:4C1D95,100:8B5CF6&height=190&section=header&text=Kuntal%20Saha&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;AI%2FML+%7C+Data Science;Building+Real-World+AI+Products;Hackathons+%7C+Experimentation+%7C+Innovation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;AI%2FML+%7C+Data+ Science;Building+Real-World+AI+Products;Hackathons+%7C+Experimentation+%7C+Innovation"/>
 
 <br><br>
 
