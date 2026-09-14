@@ -32,7 +32,7 @@ Currently exploring **Machine Learning, Computer Vision, Generative AI, Reinforc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,nodejs,tailwind,mongodb,mysql,git&theme=dark"/>
 
 <br><br>
 
